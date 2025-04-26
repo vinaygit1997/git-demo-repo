@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "first commit" 
+=======
+"This is a new line from second clone" 
+>>>>>>> 97de2cdd50bc25f54d019b4215e7a2b44f1953e0
